@@ -10,7 +10,7 @@ The new customer model results are:
 - Validation accuracy = 82.39
 - No. of epochs = 50
 
-Note-> we have not considered image documented in this model and will be covered in other projects. Please feel free to try image augmentation to further improve your validation accuracy
+Note-> I have not considered image augmentation in this model and will be covered in other projects. Please feel free to try image augmentation to further improve your validation accuracy
 
 ## Custom Model
 ### Annotated with output size and receptive field calculation at every layer
