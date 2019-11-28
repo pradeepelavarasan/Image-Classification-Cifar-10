@@ -1,6 +1,6 @@
 # Image Classification on Cifar 10 with limited parameters and epochs
 
-In this project we are taking an existing model (base network) with the below details and trying to improve as per latest CNN standard:
+In this project we are taking an existing model (base network) with the below details and trying to improve as per latest CNN standards:
 - Number of parameter = ~1.2 million parameter
 - Validation accuracy = 81.16
 - No. of epochs = 50
@@ -10,6 +10,7 @@ The new customer model results are:
 - Validation accuracy = 82.39
 - No. of epochs = 50
 
+Note-> we have not considered image documented in this model and will be covered in other projects. Please feel free to try image augmentation to further improve your validation accuracy
 
 ## Custom Model
 ### Annotated with output size and receptive field calculation at every layer
